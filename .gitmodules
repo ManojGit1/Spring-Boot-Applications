@@ -1,0 +1,9 @@
+[submodule "projects/project1"]
+	path = projects/project1
+	url = https://github.com/ManojGit1/week1-assignment.git
+[submodule "projects/project2"]
+	path = projects/project2
+	url = https://github.com/ManojGit1/week2assignment.git
+[submodule "projects/project3"]
+	path = projects/project3
+	url = https://github.com/ManojGit1/week3assessment.git
