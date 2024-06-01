@@ -16,3 +16,6 @@
 [submodule "projects/project6"]
 	path = projects/project6
 	url = https://github.com/ManojGit1/springbootassessment.git
+[submodule "projects/project7"]
+	path = projects/project7
+	url = https://github.com/ManojGit1/Final-assessment.git
