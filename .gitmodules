@@ -7,3 +7,12 @@
 [submodule "projects/project3"]
 	path = projects/project3
 	url = https://github.com/ManojGit1/week3assessment.git
+[submodule "projects/project4"]
+	path = projects/project4
+	url = https://github.com/ManojGit1/casestudy.git
+[submodule "projects/project5"]
+	path = projects/project5
+	url = https://github.com/ManojGit1/ticket.git
+[submodule "projects/project6"]
+	path = projects/project6
+	url = https://github.com/ManojGit1/springbootassessment.git
